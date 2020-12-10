@@ -1,0 +1,19 @@
+{
+    "tareas":[
+       {
+        "nombreTarea":"Tarea español",
+        "descripcion":"Es rapido que la debo de hacer",
+        "tiempoTarea":"2m"
+       },
+       {
+        "nombreTarea":"Tarea Matematica",
+        "descripcion":"Es rapido que la debo de hacer",
+        "tiempoTarea":"2m"
+       },
+       {
+        "nombreTarea":"Dormir",
+        "descripcion":"Es rapido que la debo de hacer",
+        "tiempoTarea":"2m"
+       }
+    ]
+}
